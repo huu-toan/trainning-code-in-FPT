@@ -1,0 +1,5 @@
+1, Nguyen Minh Quang, Khoa ngoai
+2, Nguyen Hoang Vu, Khoa noi
+3, Duong Van Dat, Khoa da lieu
+4, Bui Minh Duc, Nha khoa 
+5, Le Huu Toan, Khoa nhi
